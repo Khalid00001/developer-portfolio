@@ -1,4 +1,6 @@
-body {font-family: 'Poppins', sans-serif;}
+body {font-family: 'Poppins', sans-serif;
+margin: 0px;
+}
 h1{font-size: 50px;}
 .KD{color: darkgoldenrod;}
 .manage{display: flex;
@@ -11,3 +13,6 @@ border-radius: 5px;
 padding: 10px 40px;
 color: white;
 font-weight: 10px;}
+.manage{background-image: url(images/exp-bg.png);
+background-repeat: no-repeat;
+margin-bottom: 100px;}
