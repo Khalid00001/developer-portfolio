@@ -1,3 +1,13 @@
 body {font-family: 'Poppins', sans-serif;}
 h1{font-size: 50px;}
 .KD{color: darkgoldenrod;}
+.manage{display: flex;
+}
+.sherlock{width: 70%;}
+.sherlock img{width:70%}
+.button {text-decoration: none;
+background-image:linear-gradient(orange,tomato);
+border-radius: 5px;
+padding: 10px 40px;
+color: white;
+font-weight: 10px;}
